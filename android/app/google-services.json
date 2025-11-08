@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "920588815207",
+    "project_id": "spkrk-132c4",
+    "storage_bucket": "spkrk-132c4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920588815207:android:33bb5f19840ce6ed903dc2",
+        "android_client_info": {
+          "package_name": "store.spktech.spk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAecLZG-HTFr5YTlMwFeOUi97yY4dDw170"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
